@@ -32,6 +32,11 @@ FIGURE 1. Schematic representation of the faults classification process.
 Conclusions:
 Industrial rotating machines are multi-components assets which imply that a truly holistic faults classification framework should be capable of detecting anomalies associated with each component, since faults rarely occur in isolation. 
 
+Acknowledgements:
+Yizhou helps me a lot. 
+
+
+
 Congradulation
 
 Hi Yizhou!
