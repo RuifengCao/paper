@@ -33,6 +33,3 @@ Conclusions:
 Industrial rotating machines are multi-components assets which imply that a truly holistic faults classification framework should be capable of detecting anomalies associated with each component, since faults rarely occur in isolation. 
 
 Congradulation
-
-Thanks Yizhou
-Thank you Very Much
