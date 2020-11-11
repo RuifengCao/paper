@@ -2,3 +2,4 @@
 
 [2] C. S. Gray and S. J. Watson, "Physics of failure approach to wind turbine condition based maintenance," Wind Energy, vol. 13, no. 5, pp. 395-405, 2010.
 
+[47] A. Yunusa-Kaltungo and R. Cao, "Towards Developing an Automated Faults Characterisation Framework for Rotating Machines. Part 1: Rotor-Related Faults," Energies, vol. 13, no. 6, p. 1394, 2020.

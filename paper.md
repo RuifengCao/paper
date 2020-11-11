@@ -16,3 +16,6 @@ Gearboxes are integral to the functioning of these emerging and alternative ener
 
 Simulations:
 Zhifei Wu is working on the simulations section. 
+
+Methodology:
+It is vital to highlight that full details of automated faults classification framework applied here have been provided in the preceding article that focussed on rotor-related faults [47].
