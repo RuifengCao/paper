@@ -35,4 +35,3 @@ Industrial rotating machines are multi-components assets which imply that a trul
 Congradulation
 
 Thanks Yizhou
-Thank you Very Much
