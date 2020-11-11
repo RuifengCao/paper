@@ -35,3 +35,5 @@ Industrial rotating machines are multi-components assets which imply that a trul
 Congradulation
 
 Hi Yizhou!
+Thanks Yizhou!
+Itzel is great!
