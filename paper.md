@@ -23,3 +23,6 @@ It is vital to highlight that full details of automated faults classification fr
 Results:
 This thereby provides good encouragement that the approach may be suitable for integrating rotor and gearbox faults diagnosis into a single framework in the near future.
 
+Figures:
+FIGURE 1. Schematic representation of the faults classification process.
+
