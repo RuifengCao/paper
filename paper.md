@@ -1,5 +1,5 @@
 Author names:
-Ruifeng Cao; Akilu Yunsua-Kaltungo; Zhifei Wu
+Ruifeng Cao; Zhifei Wu; Akilu Yunsua-Kaltungo
 
 Paper title:
 Towards Developing an Automated Faults Characterization Framework for Rotating Machines: Gear Faults
