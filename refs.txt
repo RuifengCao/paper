@@ -1,1 +1,4 @@
 [1] F. Spinato, P. J. Tavner, G. J. Van Bussel, and E. Koutoulakos, "Reliability of wind turbine subassemblies," IET Renewable Power Generation, vol. 3, no. 4, pp. 387-401, 2009.
+
+[2] C. S. Gray and S. J. Watson, "Physics of failure approach to wind turbine condition based maintenance," Wind Energy, vol. 13, no. 5, pp. 395-405, 2010.
+
