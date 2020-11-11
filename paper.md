@@ -1,6 +1,9 @@
 Author names:
 Ruifeng Cao; Zhifei Wu; Akilu Yunsua-Kaltungo
 
+Author Affiliations:
+Department of Mechanical, Aerospace and Civil Engineering, University of Manchester, Manchester M13 9PL, UK
+
 Paper title:
 Towards Developing an Automated Faults Characterization Framework for Rotating Machines: Gear Faults
 with Abaqus simulations
