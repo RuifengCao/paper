@@ -11,5 +11,5 @@ Spinato et al. [1]
 
 Gray and Watson [2]
 
-
+Gearboxes are integral to the functioning of these emerging and alternative energy generation systems and are often envisaged to be robust enough to withstand highly dynamic operations. 
 
